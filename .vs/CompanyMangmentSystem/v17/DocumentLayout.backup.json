@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\mapping\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\mapping\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\repo\\contract\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\repo\\contract\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\mapping\\employeeprojectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\mapping\\employeeprojectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\mapping\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\mapping\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\mapping\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\mapping\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\dtos\\projectresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\dtos\\projectresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\dtos\\employeeprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\dtos\\employeeprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\dtos\\employeeprojectresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\dtos\\employeeprojectresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\dtos\\employeeresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\dtos\\employeeresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\dtos\\departmentresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\dtos\\departmentresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\unitofwork\\unitofworkimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\unitofwork\\unitofworkimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\data\\app_database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\data\\app_database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\companymangmentsystem\\companymangmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2645EE7B-F636-46E5-8FF9-E820EA3B51A8}|CompanyMangmentSystem\\CompanyMangmentSystem.csproj|solutionrelative:companymangmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:12:55.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Models\\Department.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:15:35.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Repo\\Contract\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Repo\\Contract\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Repo\\Contract\\IGenericRepo.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Repo\\Contract\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:11:14.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Repo\\Implementation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Repo\\Implementation\\GenericRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:11:31.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Program.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:39:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Mapping\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Mapping\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Mapping\\DepartmentProfile.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Mapping\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:01:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeProjectProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Mapping\\EmployeeProjectProfile.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Mapping\\EmployeeProjectProfile.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Mapping\\EmployeeProjectProfile.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Mapping\\EmployeeProjectProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:06:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Mapping\\ProjectProfile.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Mapping\\ProjectProfile.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Mapping\\ProjectProfile.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Mapping\\ProjectProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:04:10.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Mapping\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Mapping\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Mapping\\EmployeeProfile.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Mapping\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:03:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\DTOs\\ProjectDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\ProjectDTO.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\DTOs\\ProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:00:33.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Models\\EmployeeProject.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Models\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:16:13.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectResponeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\ProjectResponeDTO.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\DTOs\\ProjectResponeDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\ProjectResponeDTO.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\DTOs\\ProjectResponeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:00:13.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\EmployeeProjectDTO.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\DTOs\\EmployeeProjectDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\EmployeeProjectDTO.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\DTOs\\EmployeeProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:59:32.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeProjectResponeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\EmployeeProjectResponeDTO.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\DTOs\\EmployeeProjectResponeDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\EmployeeProjectResponeDTO.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\DTOs\\EmployeeProjectResponeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:58:41.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:58:08.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeResponeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\EmployeeResponeDTO.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\DTOs\\EmployeeResponeDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\EmployeeResponeDTO.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\DTOs\\EmployeeResponeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:57:14.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Models\\Project.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:16:00.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:56:11.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentResponeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\DepartmentResponeDTO.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\DTOs\\DepartmentResponeDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\DTOs\\DepartmentResponeDTO.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\DTOs\\DepartmentResponeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:54:54.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWorkIMP.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\UnitOfWork\\UnitOfWorkIMP.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\UnitOfWork\\UnitOfWorkIMP.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\UnitOfWork\\UnitOfWorkIMP.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\UnitOfWork\\UnitOfWorkIMP.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:52:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:48:54.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:15:48.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App_Database_Context.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Data\\App_Database_Context.cs",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\Data\\App_Database_Context.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\Data\\App_Database_Context.cs",
+              "RelativeToolTip": "CompanyMangmentSystem\\Data\\App_Database_Context.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:10:54.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyMangmentSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\CompanyMangmentSystem\\CompanyMangmentSystem\\appsettings.json",
+              "RelativeToolTip": "CompanyMangmentSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T08:12:44.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
